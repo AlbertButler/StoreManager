@@ -1,9 +1,0 @@
-D:\StoreApp\StoreManager\StoreManager\obj\Debug\StoreManager.csprojAssemblyReference.cache
-D:\StoreApp\StoreManager\StoreManager\obj\Debug\StoreManager.frmLogin.resources
-D:\StoreApp\StoreManager\StoreManager\obj\Debug\StoreManager.Properties.Resources.resources
-D:\StoreApp\StoreManager\StoreManager\obj\Debug\StoreManager.csproj.GenerateResource.cache
-D:\StoreApp\StoreManager\StoreManager\bin\Debug\StoreManager.exe.config
-D:\StoreApp\StoreManager\StoreManager\bin\Debug\StoreManager.exe
-D:\StoreApp\StoreManager\StoreManager\bin\Debug\StoreManager.pdb
-D:\StoreApp\StoreManager\StoreManager\obj\Debug\StoreManager.exe
-D:\StoreApp\StoreManager\StoreManager\obj\Debug\StoreManager.pdb

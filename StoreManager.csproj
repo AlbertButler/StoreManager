@@ -46,16 +46,70 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmCatagoryMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCatagoryMaster.Designer.cs">
+      <DependentUpon>frmCatagoryMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerMaster.Designer.cs">
+      <DependentUpon>frmCustomerMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmItemMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmItemMaster.Designer.cs">
+      <DependentUpon>frmItemMaster.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmPurchaseBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPurchaseBill.Designer.cs">
+      <DependentUpon>frmPurchaseBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSaleBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSaleBill.Designer.cs">
+      <DependentUpon>frmSaleBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupplierMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupplierMaster.Designer.cs">
+      <DependentUpon>frmSupplierMaster.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCatagoryMaster.resx">
+      <DependentUpon>frmCatagoryMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerMaster.resx">
+      <DependentUpon>frmCustomerMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmItemMaster.resx">
+      <DependentUpon>frmItemMaster.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPurchaseBill.resx">
+      <DependentUpon>frmPurchaseBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSaleBill.resx">
+      <DependentUpon>frmSaleBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupplierMaster.resx">
+      <DependentUpon>frmSupplierMaster.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
